@@ -24,5 +24,7 @@ The repo contains various materials created as a part of Cornell Birdcall Identi
 
 The materials of this repo are used as suppelmentary assets for several publications below
 
-- Parallelized Audio Feature Extraction Study (https://www.kaggle.com/c/birdsong-recognition/discussion/179662)
-- Audio Feature Extraction: Best Practices (https://www.kaggle.com/c/birdsong-recognition/discussion/172573)
+- 'Pythonic Audio Feature Extraction in the Age of Parallel and Distributed Computing' (https://medium.com/@gvyshnya/pythonic-audio-feature-extraction-in-the-age-of-parallel-and-distributed-computing-793b27641b6d)
+- 'Parallelized Audio Feature Extraction Study' (https://www.kaggle.com/c/birdsong-recognition/discussion/179662)
+- 'Audio Feature Extraction: Best Practices' (https://www.kaggle.com/c/birdsong-recognition/discussion/172573)
+
