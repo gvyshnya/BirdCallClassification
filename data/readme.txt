@@ -1,0 +1,1 @@
+This is a folder to download the competition data per https://www.kaggle.com/c/birdsong-recognition/data
