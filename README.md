@@ -11,6 +11,13 @@ The repo contains various materials created as a part of Cornell Birdcall Identi
 - *ray_mp_feature_extraction.py* - the script implementing the parallelized audio feature extraction using Ray
 - *utils.py* - the module with various audio feature extraction utility functions
 - *config.py* - the configuration module of the project solution
+- *lightgbm_training.py* - the script with the experiments to train *lightgbm* model to do the multi-class classification for bird calls
+- *log_regression_training.py* - the script with the experiments to train *logistic regression* model to do the multi-class classification for bird calls
+- *multiple_models_training.py* - the script with the experiments to train 4 different models (random forest, Multinomial Naive Bayessian Classifier, Linear SVM Classifier, and logistic regression)  to do the multi-class classification for bird calls
+
+## Jupyter Notebooks
+
+- *Birds Calling EDA and Feature Importance.ipynb* - the notebook to do EDA for the combined training set with the original tabular data and audio features extracted from the audio files, using Librosa
 
 ## Data
 
